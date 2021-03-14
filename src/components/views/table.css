@@ -1,0 +1,26 @@
+#employeeTable {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+#employeeTable td,
+#employeeTable th {
+  border: 1px solid #ddd;
+  padding: 8px;
+}
+
+#employeeTable tr:nth-child(even) {
+  background-color: #f2f2f2;
+}
+
+#employeeTable tr:hover {
+  background-color: #ddd;
+}
+
+#employeeTable th {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: left;
+  background-color: #6c3697;
+  color: white;
+}
