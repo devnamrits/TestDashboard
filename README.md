@@ -1,3 +1,7 @@
+# About Project
+
+I have tried to build a test dashboard using ReactJs and ChartJs. Here I am importing data from an API and rendering it in frontend and also using that data to display different charts.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
